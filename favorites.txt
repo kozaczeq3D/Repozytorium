@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 rosół
 pierogi
 schabowy
+=======
+breaking bad
+the 100
+snowpiercer
+>>>>>>> filmy
